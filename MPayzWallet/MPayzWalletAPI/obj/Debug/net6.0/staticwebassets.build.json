@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g74DcttCj2dbObc48RP4Hn1fZ+7mLSqLne65G3sEtC8=",
+  "Source": "MPayzWalletAPI",
+  "BasePath": "_content/MPayzWalletAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
