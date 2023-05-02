@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MPayzWallet",
+    "\\MPayzWallet\\MPayzWalletAPI",
+    "\\MPayzWallet\\MPayzWalletAPI\\DAL",
+    "\\MPayzWallet\\MPayzWalletAPI\\DAL\\Repository",
+    "\\MPayzWallet\\MPayzWalletAPI\\DAL\\Repository\\UserRepository"
   ],
-  "SelectedNode": "\\C:\\Users\\pushpendras\\source\\repos\\MPayzWalletAPI",
+  "SelectedNode": "\\MPayzWallet\\MPayzWalletAPI\\DAL\\Repository\\UserRepository\\UserRepo.cs",
   "PreviewInSolutionExplorer": false
 }
